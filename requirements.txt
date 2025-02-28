@@ -1,0 +1,9 @@
+streamlit==1.29.0
+python-dotenv==1.0.0
+gradio-client==0.6.1
+pydub==0.25.1
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1
+concurrent-log-handler==0.9.24
+TTS==0.21.1
+suno>=0.1.7
